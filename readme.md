@@ -83,7 +83,7 @@ Please visit [this link](https://give.do/fundraisers/stand-beside-the-victims-of
 
 </p>
 
-# Features <!-- omit in toc -->
+# Features <!-- omit in toc  -->
 
 - [GitHub Stats Card](#github-stats-card)
     - [Hiding individual stats](#hiding-individual-stats)
